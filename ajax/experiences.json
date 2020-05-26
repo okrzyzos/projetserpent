@@ -1,0 +1,42 @@
+[{
+    "societe":"Intersport",
+    "poste":"Commercial",
+    "duree":"2017-2018",
+    "lieu":"Arras"
+},
+{
+    "societe":"Filieris",
+    "poste":"Secretaire-Medical",
+    "duree":"2016-2017",
+    "lieu":"Lievin"
+
+},
+{
+    "societe":"Safti",
+    "poste":"Conseiller immobilier",
+    "duree":"2015-2016",
+    "lieu":"Arras"
+
+},
+{
+    "societe":"Mairie du Touquet",
+    "poste":"Chauffeur accompagnateur",
+    "duree":"2007-2014",
+    "lieu":"Le Touquet"
+
+},
+{
+    "societe":"Hausbrandt",
+    "poste":"Commercial",
+    "duree":"2005-2007",
+    "lieu":"Lens"
+
+},
+{
+    "societe":"Superdry",
+    "poste":"Vendeur",
+    "duree":"2004-2005",
+    "lieu":"Le Touquet"
+
+}]
+
